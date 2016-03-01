@@ -1,0 +1,21 @@
+# Site settings
+title: ZumbaBunny
+email: zumbabunny1@gmail.com
+url: https://zumbabunny.com
+description: "ZumbaBunny official webpage."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  primary-light: '#FFFFFF'
+  links: '#219ab3'
+
+# Footer settings
+footer: ZumbaBunny
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
